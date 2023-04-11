@@ -14,6 +14,6 @@ namespace Atividade01.RazorPages.Models {
     public int NumeroIdentificacao { get; set; }
     [Required(ErrorMessage ="Número de telefone é obrigatório")]
     public string? NumeroTelefone { get; set; }
-    public List<Atendimento>? Atendimentos { get; set; }
+    public List<AtendimentoModel>? Atendimentos { get; set; }
     }
 }

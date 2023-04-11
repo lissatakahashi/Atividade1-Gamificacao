@@ -2,7 +2,7 @@ using System.ComponentModel.DataAnnotations;
 using System.ComponentModel.DataAnnotations.Schema;
 
 namespace Atividade01.RazorPages.Models {
-   public class Atendimento {
+   public class AtendimentoModel {
     [Key] // Chave primária
     [DatabaseGenerated(DatabaseGeneratedOption.Identity)]
     public int? AtendimentoID { get; set; }
@@ -12,6 +12,6 @@ namespace Atividade01.RazorPages.Models {
     public GarcomModel? GarconResponsavel { get; set; }
     [Required(ErrorMessage ="Horário do pedido é obrigatório")]
     public DateTime HoraPedido { get; set; }
-    public List<Produto>? ProdutosSolicitados { get; set; }
+    public List<ProdutoModel>? ProdutosSolicitados { get; set; }
 }
 }

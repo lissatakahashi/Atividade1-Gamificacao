@@ -12,7 +12,7 @@ namespace Atividade01.RazorPages.Models {
         public bool Ocupada { get; set; }
         [Required(ErrorMessage ="Horário de abertura é obrigatório")]
         public DateTime? HoraAbertura { get; set; }
-        public List<Atendimento>? Atendimentos { get; set; }
+        public List<AtendimentoModel>? Atendimentos { get; set; }
         public List<GarcomModel>? GarconsAtendentes { get; set; }
     }
 }
