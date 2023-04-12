@@ -10,7 +10,6 @@ namespace Atividade01.RazorPages.Models {
         public string? Nome { get; set; }
         [Required(ErrorMessage ="Descrição é obrigatória")]
         public string? Descricao { get; set; }
-        [Required(ErrorMessage ="Mesa atendida é obrigatório")]
         public List<ProdutoModel>? Produtos { get; set; }
     }
 

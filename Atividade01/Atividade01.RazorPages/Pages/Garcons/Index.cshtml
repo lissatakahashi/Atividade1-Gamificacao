@@ -1,0 +1,27 @@
+@page
+@model Atividade01.RazorPages.Pages.Garcons.Index
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>@ViewData["Title"]</h1>
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <th>ID</th>
+                <th>Nome</th>
+                <th>Sobrenome</th>
+                <th>Numero Identificação</th>
+                <th>Numero Telefone</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var categoria in Model.Garcom)
+            {
+                
+            }
+        </tbody>
+    </table>
+</div>

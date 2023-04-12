@@ -1,0 +1,29 @@
+@page
+@model Atividade01.RazorPages.Pages.Categorias.Index
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Lista de categorias</h1>
+
+<div>
+    <table>
+        <thead>
+            <tr>
+                <td>@Html.DisplayNameFor(model => model.Categorias[0].CategoriaID)</td>
+                <td>@Html.DisplayNameFor(model => model.Categorias[0].Nome)</td>
+                <td>@Html.DisplayNameFor(model => model.Categorias[0].Descricao)</td>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var categoria in Model.Categorias)
+            {
+                <tr>
+                    <td>@Html.DisplayNameFor(model => categoria.CategoriaID)</td>
+                    <td>@Html.DisplayNameFor(model => categoria.Nome)</td>
+                    <td>@Html.DisplayNameFor(model => categoria.Descricao)</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>
