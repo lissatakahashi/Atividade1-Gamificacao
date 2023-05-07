@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "F+aAbWhfxH4MROFcF8Shkwt7ksRhX4qsQNvSnFkKs2g4IK+jHMiH+w8mDYY1rdLnVbdb4INnjIudzz/JScGYAA==",
+  "dgSpecHash": "32DObGw2E8/L8/SHCDqdW7UDFpdNoVs0lQwl3As2vbJLQOCdayaalKj8s88aoGkdsYiuCcKJWRVZzkwECFVnsQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj",
+  "projectFilePath": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lilit\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\lilit\\.nuget\\packages\\microsoft.data.sqlite.core\\7.0.5\\microsoft.data.sqlite.core.7.0.5.nupkg.sha512",

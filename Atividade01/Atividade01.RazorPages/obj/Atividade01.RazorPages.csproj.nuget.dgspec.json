@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj": {}
+    "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj": {
+    "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj",
+        "projectUniqueName": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj",
         "projectName": "Atividade01.RazorPages",
-        "projectPath": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj",
+        "projectPath": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\Atividade01.RazorPages.csproj",
         "packagesPath": "C:\\Users\\lilit\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\obj\\",
+        "outputPath": "c:\\Users\\lilit\\OneDrive\\Documentos\\faculdade\\2023-1\\tecnologiaemdesenvolvimentodesistemas\\Gamificacao\\Atividade1-Gamificacao\\Atividade01\\Atividade01.RazorPages\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lilit\\AppData\\Roaming\\NuGet\\NuGet.Config",
